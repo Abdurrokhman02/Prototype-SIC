@@ -1,0 +1,11 @@
+numpy
+opencv-python
+pillow
+matplotlib
+PyYAML
+torch>=1.7
+torchvision>=0.8
+tqdm
+scipy
+tensorboard
+seaborn
