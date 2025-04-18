@@ -1,11 +1,7 @@
-numpy
+streamlit>=1.32.0
 opencv-python
-pillow
-matplotlib
-PyYAML
-torch>=1.7
-torchvision>=0.8
-tqdm
-scipy
-tensorboard
-seaborn
+ultralytics>=8.0.0
+requests
+Pillow
+numpy
+pandas
