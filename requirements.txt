@@ -1,9 +1,7 @@
-streamlit>=1.32.0
-opencv-python-headless==4.8.0.74
-# Hindari bentrok:
-opencv-python==4.8.0.74; sys_platform == 'never'
-ultralytics>=8.0.0
+streamlit
+opencv-python-headless
+ultralytics
+Pillow
+requests
 numpy
 pandas
-requests
-Pillow
